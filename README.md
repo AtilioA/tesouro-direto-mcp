@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/atilioa-tesouro-direto-mcp-badge.png)](https://mseep.ai/app/atilioa-tesouro-direto-mcp)
+
 # Tesouro Direto MCP Server
 
 [![npm version](https://img.shields.io/npm/v/tesouro-direto-mcp.svg)](https://www.npmjs.com/package/tesouro-direto-mcp)
