@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/atilioa-tesouro-direto-mcp-badge.png)](https://mseep.ai/app/atilioa-tesouro-direto-mcp)
+
 # Tesouro Direto MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@AtilioA/tesouro-direto-mcp)](https://smithery.ai/server/@AtilioA/tesouro-direto-mcp)
